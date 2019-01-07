@@ -22,8 +22,9 @@ For using Google Remote Desktop on a virtual machine in CERN's Openstack cloud
 19) sudo yum install libXScrnSaver
 20) sudo yum install chrome-remote-desktop
 21) sudo chmod +s /usr/lib64/chrome-remote-desktop/user-session
-22) sudo rpm -i /afs/cern.ch/user/a/amlevin/nomachine_6.0.66_2_x86_64.rpm
-23) Connect to the machine using NX 
-24) Download the Google Chrome rpm from https://www.google.com/chrome/ 
-25) sudo rpm -i google-chrome-stable_current_x86_64.rpm
-26) Open Chrome, sign in to your google account, and launch the Chrome Remote Desktop app
+23) get the latest version of the nomachine rpm from https://www.nomachine.com/download/linux&id=1
+24) install the rpm (e.g. sudo rpm -i /afs/cern.ch/user/a/amlevin/nomachine_6.0.66_2_x86_64.rpm)
+25) Connect to the machine using NX 
+26) Download the Google Chrome rpm from https://www.google.com/chrome/ 
+27) sudo rpm -i google-chrome-stable_current_x86_64.rpm
+28) Open Chrome, sign in to your google account, and launch the Chrome Remote Desktop app
