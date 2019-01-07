@@ -28,4 +28,4 @@ For using Google Remote Desktop on a virtual machine in CERN's Openstack cloud
 25) Connect to the machine using NX 
 26) Download the Google Chrome rpm from https://www.google.com/chrome/ 
 27) sudo rpm -i google-chrome-stable_current_x86_64.rpm
-28) Open Chrome, sign in to your google account, and launch the Chrome Remote Desktop app
+28) Open Chrome, sign in to your google account, go to the Chrome Web Store, and launch the Chrome Remote Desktop app
